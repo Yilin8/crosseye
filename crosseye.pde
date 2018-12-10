@@ -37,5 +37,4 @@ noStroke();
 fill(255,255,255);
 ellipse(235,180,15,15);
 
-//save function
-save("YINGXIN.Eyeball.Drawing.png");
+
